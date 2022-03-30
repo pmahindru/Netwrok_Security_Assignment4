@@ -1,0 +1,21 @@
+e as Encrypt OR d as Decrypt: e
+
+Plain text: I%love%doing%cryptography%and%learn%new%things.%lets%make%a%new%things%and%know%about%security!!
+
+Secret Key:  [3, 4, 5, 6, 7, 8, 9, 2, 1, 10]
+
+	1	2	3	4	5	6	7	8	9	10
+	I	%	l	o	v	e	%	d	o	i
+	n	g	%	c	r	y	p	t	o	g
+	r	a	p	h	y	%	a	n	d	%
+	l	e	a	r	n	%	n	e	w	%
+	t	h	i	n	g	s	.	%	l	e
+	t	s	%	m	a	k	e	%	a	%
+	n	e	w	%	t	h	i	n	g	s
+	%	a	n	d	%	k	n	o	w	%
+	a	b	o	u	t	%	s	e	c	u
+	r	i	t	y	!	!	%	%	%	%
+
+This is Cipher text: l%pai%wnotochrnm%duyvryngat%t!ey%%skhk%!%pan.eins%dtne%%noe%oodwlagwc%%gaehseabiInrlttn%arig%%e%s%u%
+
+END ENCRYPTION (PLAIN-TEXT - CIPHER-TEXT)

@@ -1,0 +1,16 @@
+e as Encrypt OR d as Decrypt: e
+
+Plain text: meet%at%military%house
+
+Secret Key:  [5, 4, 1, 3, 2]
+
+	1	2	3	4	5
+	m	e	e	t	%
+	a	t	%	m	i
+	l	i	t	a	r
+	y	%	h	o	u
+	s	e	%	%	%
+
+This is Cipher text: %iru%tmao%malyse%th%eti%e
+
+END ENCRYPTION (PLAIN-TEXT - CIPHER-TEXT)

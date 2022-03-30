@@ -1,0 +1,15 @@
+e as Encrypt OR d as Decrypt: e
+
+Plain text: you%guessed%it!
+
+Secret Key:  [3, 4, 1, 2]
+
+	1	2	3	4
+	y	o	u	%
+	g	u	e	s
+	s	e	d	%
+	i	t	!	%
+
+This is Cipher text: ued!%s%%ygsiouet
+
+END ENCRYPTION (PLAIN-TEXT - CIPHER-TEXT)

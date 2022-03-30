@@ -1,0 +1,23 @@
+Secret Key:  SECRET
+
+e as Encrypt OR d as Decrypt: d
+
+Cipher text: EPITUNKELMZXSOCWCBISKQ
+
+This is Key Array
+
+	S	E	C	R	T
+	A	B	D	F	G
+	H	I	K	L	M
+	N	O	P	Q	U
+	V	W	X	Y	Z
+
+This is Cipher Text
+
+EP	IT	UN	KE	LM	ZX	SO	CW	CB	IS	KQ	
+
+This is Plain text
+
+CO	ME	QU	IC	KL	YW	EN	EX	ED	HE	LP	
+
+END DECRYPTION (CIPHER-TEXT - PLAIN-TEXT)

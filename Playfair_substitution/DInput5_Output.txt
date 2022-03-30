@@ -1,0 +1,23 @@
+Secret Key:  PRANAV
+
+e as Encrypt OR d as Decrypt: d
+
+Cipher text: KGTRFDNWVMMHANRGZU
+
+This is Key Array
+
+	P	R	A	N	V
+	B	C	D	E	F
+	G	H	I	K	L
+	M	O	Q	S	T
+	U	W	X	Y	Z
+
+This is Cipher Text
+
+KG	TR	FD	NW	VM	MH	AN	RG	ZU	
+
+This is Plain text
+
+IL	OV	EC	RY	PT	OG	RA	PH	YZ	
+
+END DECRYPTION (CIPHER-TEXT - PLAIN-TEXT)

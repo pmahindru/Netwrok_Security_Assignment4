@@ -1,0 +1,3 @@
+e
+3,4,5,2,1
+I love doing cryptography, didnt think about any more sentance sorry!!

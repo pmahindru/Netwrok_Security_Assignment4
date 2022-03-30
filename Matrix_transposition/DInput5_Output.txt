@@ -1,0 +1,25 @@
+e as Encrypt OR d as Decrypt: d
+
+Cipher text: ld%tpd%kuyet%yoocohit%t%%as!virgydha%msno!%%gpa%tnonrnerIenyr,nibaoecr
+
+Secret Key:  [3, 4, 5, 2, 1]
+
+	1	2	3	4	5
+	I	%	l	o	v
+	e	%	d	o	i
+	n	g	%	c	r
+	y	p	t	o	g
+	r	a	p	h	y
+	,	%	d	i	d
+	n	t	%	t	h
+	i	n	k	%	a
+	b	o	u	t	%
+	a	n	y	%	m
+	o	r	e	%	s
+	e	n	t	a	n
+	c	e	%	s	o
+	r	r	y	!	!
+
+This is Plain text: I love doing cryptography, didnt think about any more sentance sorry!!
+
+END DECRYPTION (CIPHER-TEXT - PLAIN-TEXT)

@@ -1,0 +1,23 @@
+Secret Key:  PRANAV
+
+e as Encrypt OR d as Decrypt: e
+
+Plain text: JAMESISPLAYINGBADMINTONWITHPRANAVINTHEPARK
+
+This is Key Array
+
+	P	R	A	N	V
+	B	C	D	E	F
+	G	H	I	K	L
+	M	O	Q	S	T
+	U	W	X	Y	Z
+
+This is Plain Text
+
+JA	ME	SI	SP	LA	YI	NG	BA	DM	IN	TO	NW	IT	HP	RA	NA	VI	NT	HE	PA	RK	
+
+This is Cipher text
+
+QD	SB	QK	MN	IV	XK	PK	DP	BQ	KA	MQ	RY	LQ	GR	AN	VN	AL	VS	KC	RN	NH	
+
+END ENCRYPTION (PLAIN-TEXT - CIPHER-TEXT)

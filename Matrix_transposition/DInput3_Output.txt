@@ -1,0 +1,18 @@
+e as Encrypt OR d as Decrypt: d
+
+Cipher text: mnh%yd%%y%r%eYaitkmn!IanahiAp%%if%%%gew%s%liptrY%
+
+Secret Key:  [4, 2, 3, 1, 6, 5, 7]
+
+	1	2	3	4	5	6	7
+	I	%	a	m	%	p	l
+	a	y	i	n	g	%	i
+	n	%	t	h	e	%	p
+	a	r	k	%	w	i	t
+	h	%	m	y	%	f	r
+	i	e	n	d	s	%	Y
+	A	Y	!	%	%	%	%
+
+This is Plain text: I am playing in the park with my friends YAY!    
+
+END DECRYPTION (CIPHER-TEXT - PLAIN-TEXT)

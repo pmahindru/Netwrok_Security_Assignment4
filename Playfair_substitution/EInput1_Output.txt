@@ -1,0 +1,23 @@
+Secret Key:  SECRET
+
+e as Encrypt OR d as Decrypt: e
+
+Plain text: COMEQUICKLYWENEEDHELP
+
+This is Key Array
+
+	S	E	C	R	T
+	A	B	D	F	G
+	H	I	K	L	M
+	N	O	P	Q	U
+	V	W	X	Y	Z
+
+This is Plain Text
+
+CO	ME	QU	IC	KL	YW	EN	EX	ED	HE	LP	
+
+This is Cipher text
+
+EP	IT	UN	KE	LM	ZX	SO	CW	CB	IS	KQ	
+
+END ENCRYPTION (PLAIN-TEXT - CIPHER-TEXT)
